@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alixahedi
 - 👀 I’m interested in Embdded Systems, Robotic, IOT, AI & ML
 - 🌱 I’m currently learning Ai & ML, FPGA, DSP
-- 📫 How to reach me: my Email Alixahed@gmail.com, my website http://mbedlab.com and for Persian Tutorial you can visit http://digispark.ir/author/alixahedi 
+- 📫 How to reach me: my Email Alixahedi@gmail.com, my website http://mbedlab.com and for Persian Tutorial you can visit http://digispark.ir/author/alixahedi 
 
 <!---
 alixahedi/alixahedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

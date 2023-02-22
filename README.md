@@ -1,5 +1,6 @@
-# 👋 Hi, I’m Ali Zahedi
-An Embedded System Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=07A48C&width=435&lines=Hey+I%E2%80%99m+Alixahedi!;An+embedded+system+developer%2C+;Welcome+to+my+Github.)](https://git.io/typing-svg)
+
+
 - 👀 I’m interested in Embedded Systems, Robotic, IOT, AI / ML
 - 🌱 I’m currently learning Ai / ML, FPGA, DSP
 - 📫 How to reach me 

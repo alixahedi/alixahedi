@@ -15,8 +15,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=alixahedi.alixahedi)
 
-<br />
-
 #
 <h1 align="center"><a href="https://github.com/Alixahedi">Alixahedi</a></h1>
 

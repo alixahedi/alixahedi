@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&duration=4000&pause=250&color=2C906D&center=true&vCenter=true&multiline=true&repeat=true&width=1050&height=55&lines=Welcome+to+my+Github.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1300&size=50&duration=4000&pause=250&color=2C906D&center=true&vCenter=true&multiline=true&repeat=true&width=1500&height=60&lines=Welcome+to+my+Github)
 
 <a href="https://twitter.com/alixahedi">
   <img align="left" alt="Alix | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

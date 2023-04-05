@@ -37,7 +37,7 @@
 <div align="center">
 <p width="500px" style="width:500px">
 <h3>About Me</h3>
-My name is Ali Zahedi You can call me Alix! I am currently a 23 y/o Electronic engineering graduate and an Embedded sys developer.
+My name is Ali Zahedi You can call me Alix! I am currently a 24 y/o Electronic engineering graduate and an Embedded sys developer.
 </p>
 </div>
 <!-- END: ABOUT ME  -->

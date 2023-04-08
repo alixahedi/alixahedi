@@ -27,7 +27,7 @@
 
 <!-- START: SOCIAL LINKS  -->
 
- [![Personal Website](https://img.shields.io/badge/🪐Personal%20Website-Coming%20Soon%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)]([https://mbedlab.com](https://digispark.ir/author/alixahedi))
+ [![Personal Website](https://img.shields.io/badge/🪐Personal%20Website-Coming%20Soon%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)]([https://github.com/alixahedi/alixahedi/blob/main/assests/Ali%20Zahedi%20CV.pdf](https://digispark.ir/author/alixahedi))
 </div>
 <!-- END: SOCIAL LINKS  -->
 

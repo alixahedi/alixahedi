@@ -4,7 +4,7 @@
   <img align="left" alt="Alix | Twitter" width="22px" src="@/../assests/img/social/Twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/ali-zahedi-b5a360158//">
-  <img align="left" alt="Ali's LinkedIN" width="22px" src="@/../assests/img/social/Github.png" />
+  <img align="left" alt="Ali's LinkedIN" width="22px" src="@/../assests/img/social/Linkedin.png" />
 <a href="https://www.facebook.com/Alixahedi/">
   <img align="left" alt="Ali's FaceBook" width="22px" src="@/../assests/img/social/fb.png" />
 </a>

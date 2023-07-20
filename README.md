@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&duration=4000&pause=250&color=2C906D&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=75&lines=Welcome+to+my+Github!)
 
 <a href="https://twitter.com/alixahedi">
-  <img align="left" alt="Alix | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Alix | Twitter" width="22px" src="@/../assests/img/social/Twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/ali-zahedi-b5a360158//">
-  <img align="left" alt="Ali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ali's LinkedIN" width="22px" src="@/../assests/img/social/Github.png" />
 <a href="https://www.facebook.com/Alixahedi/">
   <img align="left" alt="Ali's FaceBook" width="22px" src="@/../assests/img/social/fb.png" />
 </a>

@@ -26,13 +26,9 @@
 <!-- END:VISITOR COUNTER -->
 
 <!-- START: SOCIAL LINKS  -->
-
-  
  [![my CV](https://img.shields.io/badge/🪐Personal%20Website-Coming%20Soon%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)](@/../assests/Ali%20Zahedi%20CV.pdf)
 </div>
 <!-- END: SOCIAL LINKS  -->
-
-
 
 <!-- START: ABOUT ME  -->
 <div align="center">
@@ -55,9 +51,9 @@ My name is Ali Zahedi You can call me Alix! I am currently a 24 y/o Electronic e
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
 </p>
 
+</br>
+</br>
 
-</br>
-</br>
 <div align="center">
 <!-- START: GITHUB STATUS -->
 
@@ -65,18 +61,9 @@ My name is Ali Zahedi You can call me Alix! I am currently a 24 y/o Electronic e
   
 <!-- END: GITHUB STATUS -->
    
-  </br>
+</br>
   
-
-
 <a href="https://github.com/alixahedi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixahedi&layout=compact&bg_color=F5F5F5&border_color=FFFFFF&title_color=666666&border_radius=10&card_width=1000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixahedi&layout=compact&bg_color=19191a&border_color=FFFFFF&title_color=666666&border_radius=10&card_width=1000"/>
 </a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-> Wear your knowledge like a watch, not just for the sake of showing it off. But because if someone asks you the time, tell him.
-> -- Lord Chesterfield

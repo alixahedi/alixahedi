@@ -34,7 +34,7 @@
 <div align="center">
 <p width="500px" style="width:500px">
 <h3>About Me</h3>
-My name is Ali Zahedi You can call me Alix! I am currently a 25 y/o Electronic engineering graduate and an Embedded sys developer. I have work experience in the fields of robotics, Internet of Things, biomedical and industrial circuit design. I also have the experience of teaching robotics and electronics. You can see my tutorials in Persian in this  <a href="https://www.digispark.ir/author/alixahedi" target="_blank" rel="noreferrer">link</a>.
+<p style="text-align: justify;">My name is Ali Zahedi You can call me Alix! I am currently a 25 y/o Electronic engineering graduate and an Embedded sys developer. I have work experience in the fields of robotics, Internet of Things, biomedical and industrial circuit design. I also have the experience of teaching robotics and electronics. You can see my tutorials in Persian in this <a href="https://www.digispark.ir/author/alixahedi" target="_blank" rel="noreferrer">link</a>.</p>
 </p>
 </div>
 <!-- END: ABOUT ME  -->

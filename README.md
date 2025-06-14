@@ -12,7 +12,7 @@
   <img align="left" alt="Ali's Instagram" width="22px" src="@/../assests/img/social/insta.png" />
 </a>
 
-#
+
 <h1 align="center"><a href="https://github.com/Alixahedi">Alixahedi</a></h1>
 
 <div align="center" >

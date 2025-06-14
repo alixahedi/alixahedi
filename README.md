@@ -12,9 +12,6 @@
   <img align="left" alt="Ali's Instagram" width="22px" src="@/../assests/img/social/insta.png" />
 </a>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=alixahedi.alixahedi)
-
 #
 <h1 align="center"><a href="https://github.com/Alixahedi">Alixahedi</a></h1>
 

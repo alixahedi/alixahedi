@@ -43,8 +43,10 @@ Experienced **Electronics and Embedded Systems Engineer** with a strong backgrou
 
 ## 🚀 Featured Technologies (Visual)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,stm32,esp32,avr,raspberrypi,fpga,git,linux,docker,pcb,opencv,pyqt,lvgl,touchgfx,mqtt,ethernet,uart,i2c,spi,can,html,css,js" alt="Core Technologies" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,verilog,stm32,esp32,avr,raspberrypi,fpga,linux,docker,git,opencv,lvgl,mqtt,uart,i2c,spi,can,html,css" />
 </p>
+
+
 
 ---
 

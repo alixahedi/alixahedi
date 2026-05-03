@@ -57,5 +57,5 @@ Experienced **Electronics and Embedded Systems Engineer** with a strong backgrou
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Ali Zahedi-Mobini</sub>
+  <sub>made by Ali Zahedi</sub>
 </div>

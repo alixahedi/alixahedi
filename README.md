@@ -11,7 +11,8 @@
 <div>
   <a href="mailto:Alixahedi@gmail.com" aria-label="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>   <a href="https://www.linkedin.com/in/alixahedi/" aria-label="LinkedIn">
+  </a>
+  <a href="https://www.linkedin.com/in/alixahedi/" aria-label="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://t.me/talixahedi" aria-label="Telegram">
@@ -23,7 +24,7 @@
   <a href="https://alixahedi.github.io" aria-label="Website">
      <img src="https://img.shields.io/badge/Website-4F44D6?style=for-the-badge&logo=chrome&logoColor=white" alt="Website"/>
   </a>
-   <a href="https://www.digispark.ir/author/alixahedi" aria-label="Blog">
+  <a href="https://www.digispark.ir/author/alixahedi" aria-label="Blog">
     <img src="https://img.shields.io/badge/Blog-2C906D?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/>
   </a>
 </div>
@@ -38,22 +39,27 @@ Experienced **Electronics and Embedded Systems Engineer** with a strong backgrou
 ---
 
 ## 🚀 Featured Technologies (Visual)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,verilog,stm32,esp32,avr,raspberrypi,fpga,linux,docker,git,opencv,lvgl,mqtt,uart,i2c,spi,can,html,css" />
+  <img 
+    src="https://skillicons.dev/icons?i=c,cpp,python,js,verilog,stm32,esp32,avr,raspberrypi,fpga,linux,docker,git,opencv,lvgl,mqtt,uart,i2c,spi,can,html,css" 
+    style="width: 100%; max-width: 800px;" 
+    alt="Core Technologies"
+  />
 </p>
-
-
 
 ---
 
 ## 📈 GitHub Stats
-<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alixahedi&show_icons=true&theme=chartreuse-dark)
----
- <a href="https://github.com/alixahedi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixahedi&layout=compact&bg_color=19191a&border_color=FFFFFF&title_color=666666&border_radius=10&card_width=1000"/>
-</a>
+<div align="center">
+  <a href="https://github.com/alixahedi">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixahedi&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=12&card_width=800"
+      alt="Top Languages"
+    />
+  </a>
 </div>
 
 ---

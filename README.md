@@ -48,10 +48,9 @@ Experienced **Electronics and Embedded Systems Engineer** with a strong backgrou
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alixahedi&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alixahedi&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
+ <a href="https://github.com/alixahedi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixahedi&layout=compact&bg_color=19191a&border_color=FFFFFF&title_color=666666&border_radius=10&card_width=1000"/>
+</a>
 </div>
 
 ---

@@ -48,6 +48,9 @@ Experienced **Electronics and Embedded Systems Engineer** with a strong backgrou
 
 ## 📈 GitHub Stats
 <div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alixahedi&show_icons=true&theme=chartreuse-dark)
+---
  <a href="https://github.com/alixahedi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixahedi&layout=compact&bg_color=19191a&border_color=FFFFFF&title_color=666666&border_radius=10&card_width=1000"/>
 </a>

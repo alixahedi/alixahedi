@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Ali Zahedi banner"/>
 
-<img src="https://github.com/alixahedi.png" width="130" alt="Ali Zahedi" style="border-radius:50%; border: 3px solid #58a6ff; margin-top:-20px;"/>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=Embedded+Systems+Engineer;IoT+%26+Robotics;Firmware+%26+Hardware;Building+Smart+Devices"/>

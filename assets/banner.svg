@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#161b22;#0d1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#1f6feb">
+        <animate attributeName="stop-color" values="#1f6feb;#388bfd;#58a6ff;#1f6feb" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#161b22;#0d1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="140" fill="url(#bg)" rx="12"/>
+  <circle cx="120" cy="70" r="40" fill="none" stroke="#58a6ff" stroke-width="2" opacity="0.4">
+    <animate attributeName="r" values="38;44;38" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="70" r="50" fill="none" stroke="#388bfd" stroke-width="1.5" opacity="0.35">
+    <animate attributeName="r" values="48;55;48" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="400" y="62" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700" fill="#ffffff" filter="url(#glow)">Ali Zahedi</text>
+  <text x="400" y="95" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#8b949e" letter-spacing="4">EMBEDDED SYSTEMS ENGINEER</text>
+  <line x1="200" y1="115" x2="600" y2="115" stroke="#30363d" stroke-width="1"/>
+  <circle cx="400" cy="115" r="3" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

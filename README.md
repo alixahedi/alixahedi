@@ -2,15 +2,11 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Ali Zahedi banner"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=Embedded+Systems+Engineer;IoT+%26+Robotics;Firmware+%26+Hardware;Building+Smart+Devices"/>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=alixahedi&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views"/>
-
-<br/><br/>
 
 <a href="mailto:Alixahedi@gmail.com"><img src="https://img.shields.io/badge/Email-Alixahedi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/alixahedi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -25,7 +21,7 @@
 
 ### About
 
-Embedded engineer building **firmware**, **IoT**, and **hardware** — from STM32 & ESP32 to PCB design.
+Embedded engineer building **firmware**, **IoT**, and **hardware** -> from STM32 & ESP32 to PCB design.
 
 ---
 
@@ -65,7 +61,12 @@ Embedded engineer building **firmware**, **IoT**, and **hardware** — from STM3
 
 <img width="100%" src="https://raw.githubusercontent.com/alixahedi/alixahedi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
-<br/><br/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=alixahedi&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views"/>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&animation=twinkling"/>
 

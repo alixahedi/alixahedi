@@ -9,7 +9,7 @@
 <br/>
 
 <a href="mailto:Alixahedi@gmail.com"><img src="https://img.shields.io/badge/Email-Alixahedi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/alixahedi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alizahedimobini/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/talixahedi"><img src="https://img.shields.io/badge/Telegram-@talixahedi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://youtube.com/@alizahedi"><img src="https://img.shields.io/badge/YouTube-@alizahedi-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://alixahedi.github.io"><img src="https://img.shields.io/badge/Portfolio-alixahedi.github.io-24292f?style=for-the-badge&logo=github&logoColor=white"/></a>
